@@ -5,8 +5,9 @@ function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+      <HighlightIcon />
+        <b> </b>
+        <b>Keeper App</b>
       </h1>
     </header>
   );
