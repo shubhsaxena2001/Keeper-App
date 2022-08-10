@@ -4,16 +4,19 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 body {
   background: #eee;
-  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  /* background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  background-image: url("http://www.transparenttextures.com/patterns/3px-tile.png"); */
+  background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color:#33CA7F;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
